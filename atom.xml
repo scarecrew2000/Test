@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://scarecrew2000.github.com/Test/atom.xml" rel="self"/>
-  <link href="http://scarecrew2000.github.com/Test/"/>
-  <updated>2012-11-14T03:40:24+08:00</updated>
-  <id>http://scarecrew2000.github.com/Test/</id>
+  <link href="http://scarecrew2000.github.com//atom.xml" rel="self"/>
+  <link href="http://scarecrew2000.github.com//"/>
+  <updated>2012-11-14T04:01:24+08:00</updated>
+  <id>http://scarecrew2000.github.com//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[this is test page]]></title>
-    <link href="http://scarecrew2000.github.com/Test/blog/2012/11/14/this-is-test-page/"/>
+    <link href="http://scarecrew2000.github.com//blog/2012/11/14/this-is-test-page/"/>
     <updated>2012-11-14T03:36:00+08:00</updated>
-    <id>http://scarecrew2000.github.com/Test/blog/2012/11/14/this-is-test-page</id>
+    <id>http://scarecrew2000.github.com//blog/2012/11/14/this-is-test-page</id>
     <content type="html"><![CDATA[<p>testing 123</p>
 
 <p>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;></p>
