@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://scarecrew2000.github.com/Test/atom.xml" rel="self"/>
   <link href="http://scarecrew2000.github.com/Test/"/>
-  <updated>2012-11-14T01:47:35+08:00</updated>
+  <updated>2012-11-14T03:40:24+08:00</updated>
   <id>http://scarecrew2000.github.com/Test/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[this is test page]]></title>
+    <link href="http://scarecrew2000.github.com/Test/blog/2012/11/14/this-is-test-page/"/>
+    <updated>2012-11-14T03:36:00+08:00</updated>
+    <id>http://scarecrew2000.github.com/Test/blog/2012/11/14/this-is-test-page</id>
+    <content type="html"><![CDATA[<p>testing 123</p>
+
+<p>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;>&lt;></p>
+
+<p>$$$$  Orz</p>
+]]></content>
+  </entry>
   
 </feed>
